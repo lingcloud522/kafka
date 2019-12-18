@@ -22,6 +22,10 @@ target/
 *.iws
 *.iml
 *.ipr
+.mvn
+mvnw
+mvnw.cmd
+kafka.iml
 
 ### NetBeans ###
 /nbproject/private/
